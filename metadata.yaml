@@ -1,5 +1,8 @@
 _repo: From-Kitchen-to-Garret-Hints-for-young-householders_51590
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51590-h/images/cover.jpg
 creator:
   author:
     agent_name: Panton, J. E. (Jane Ellen)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46478'
     url: http://www.gutenberg.org/2009/agents/46478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51590#From-Kitchen-to-Garret-Hints-for-young-householders
 gutenberg_issued: '2016-03-28'
 gutenberg_type: Text
 identifiers:
