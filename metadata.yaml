@@ -1,0 +1,25 @@
+_repo: From-Kitchen-to-Garret-Hints-for-young-householders_51590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Panton, J. E. (Jane Ellen)
+    alias: Panton, Jane Ellen
+    birthdate: 1847
+    deathdate: 1923
+    gutenberg_agent_id: '46478'
+    url: http://www.gutenberg.org/2009/agents/46478
+description: ''
+gutenberg_issued: '2016-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Home economics'
+- GITenberg
+title: 'From Kitchen to Garret: Hints for young householders'
+url: http://www.gutenberg.org/ebooks/51590
